@@ -18,5 +18,3 @@ git stages
 git files tracking
 git file commit
 history
-
-
